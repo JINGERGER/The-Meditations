@@ -11,3 +11,4 @@ It is now very popular to analyze problems using the first principles. When assi
 
 As of this point in time, August 2025, which one is more intelligent: a humanoid robot equipped with various large models—capable even of performing simple tasks like folding clothes—or a dog? What are the current evaluation criteria? And will robots that score highly based on these criteria become the companions or slaves that humans desire in the future?
 ![Alt Text](img/IEEE_ROBOT.jpg)
+<p align="center">Fig. AI-ROBOTS https://spectrum.ieee.org/ai-robots.</p>
