@@ -8,3 +8,4 @@ If I were forced to decouple and replicate this kind of "old horse knowing the w
 It is now very popular to analyze problems using the first principles. When assigning a task to a robot or an autonomous vehicle, people tend to define the problem and set constraints (FORMULATION) in the same way humans solve problems themselves. In my view, the advantage of this approach is that treating humans as a research method or object is a more natural and convenient way to proceed. However, could this method lead to the omission of something important?
 
 As of this point in time, August 2025, which one is more intelligent: a humanoid robot equipped with various large models—capable even of performing simple tasks like folding clothes—or a dog? What are the current evaluation criteria? And will robots that score highly based on these criteria become the companions or slaves that humans desire in the future?
+![Alt Text](img/IEEE_ROBOT.jpg)
