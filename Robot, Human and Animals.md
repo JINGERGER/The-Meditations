@@ -1,1 +1,1 @@
-
+There is a topic that always grabs attention in the autonomous driving industry: whether LiDAR should be adopted? Regarding this question, first, I would like to state my stance: I am in favor of not adopting it. This leads to another question: how would you use LiDAR? I think I'll set this question aside for now, and let's first think about the difference between humans and animals.
