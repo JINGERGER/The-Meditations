@@ -6,7 +6,7 @@ First Use (Map Establishment Phase): A robotic vacuum cleaner lacks prior knowle
 
 Subsequent Uses (Routine Cleaning Phase): Even when equipped with a pre-constructed map, the robotic vacuum still requires verifying whether the environment has undergone changes (e.g., a newly placed chair blocking its path) and ensuring no areas are overlooked. In essence, this remains an exploratory process: its core focus persists on full spatial coverage, rather than "targeted reconnaissance of a specific point."
 
-<p align="center"><img src="img/irobot.jpg"></p>
+<p align="center"><img src="img/irobot.png"></p>
 <p align="center">Fig. Cleans a Whole Level of Your Home | Roomba® 900 series | iRobot® https://www.youtube.com/watch?v=oj3Vawn-kRE&t=89s.</p>
 
 Before the invention of large language models (LLMs) or vision-language models (VLMs), if I were to design a robotic vacuum cleaner to execute commands such as "help me clean the kitchen" or "help me clean the bathroom," I would typically first need to perform SLAM (Simultaneous Localization and Mapping) on the entire room. After that, I would have to manually label or delineate the boundaries of the bathroom, and then confine the robot’s operational design domain (ODD) to that specific area. This process required a significant amount of manual auxiliary work—because for robotic vacuums at that time, in normal mode, they were merely machines capable of obstacle avoidance and reaching mapped locations; they could not understand so-called advanced or abstract commands.
